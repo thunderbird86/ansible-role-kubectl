@@ -3,7 +3,7 @@
 # defaults file for codecap.kubectl
 #
 
-profile_file:'~/.bash_profile'
+profile_file: '~/.bash_profile'
 
 kubectl_conf:
   path:
